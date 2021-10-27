@@ -6,9 +6,10 @@
   
   body {
     padding: 5%;
-    background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/dark-honeycomb.png'); 
+    background-color: beige;
+   /* background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/dark-honeycomb.png'); */
     font-family: 'Merriweather', serif;
-    color: white;
+    color: rgb(120, 120, 120);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -29,3 +30,12 @@
     font-weight: 300;
     margin-bottom: 1rem;
   }
+
+  .logo {
+    width: 180px;
+  }
+    /*margin-left: 2rem;
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+  }
+  */
